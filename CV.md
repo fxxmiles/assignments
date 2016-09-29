@@ -23,3 +23,17 @@ Languages
 * English (TOEFL, 111 )
 * Italian (mother tongue)
 
+IT Skills
+---------
+
+* Microsoft Office (ECDL, May 2013)
+* Latex (Basic)
+* Eviews, Stata
+
+Other Information
+-----------------
+
+* 2013 - 2015 Volounteer SOS Bambini
+* 2012 Project "Diamoci una mano" (UICI-Italian Union ofthe Blind and Partially Sighted)
+* 2010 “Italiani nel mondo tra leadership e identità” (Consules), Intercultural Exchange Program MAE-NIAF at Scuola d’Italia Guglielmo Marconi)
+* 2009 Summer Camp for European Students at Beijing Foreign Studies University
