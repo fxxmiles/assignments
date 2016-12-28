@@ -1,13 +1,14 @@
-#Behavioural Economics: Libertarian Paternalism and Public Health
+# Behavioral Economics: Libertarian Paternalism and Public Health
+
 ##### Canon - Applied Economic Anaylsis I, Tilburg School of Economics and Management
 
-######By Yvonne Jamar, Carolina Sant’Ana Oliveira, Sandra van der Schaaf, Florian Schmidt, Zeynep Tanca and Francesca Ventimiglia
+###### By Yvonne Jamar, Carolina Sant’Ana Oliveira, Sandra van der Schaaf, Florian Schmidt, Zeynep Tanca and Francesca Ventimiglia
 
-####ABSTRACT
+#### ABSTRACT
 
-*Public health is a matter of great concern for politicians and legislators around the world: not only does it take up a relevant slice of a nation’s public budget, but it also deeply affects citizens’ quality of life. The behavioural economics approach of libertarian paternalism largely contributes to the already substantial literature on this matter. In the following canon, we give an overview of the aforementioned contributions by presenting the most important examples of practical applications. These include experiments on nudging people towards healthier lifestyles as well as articles on better schemes for organ donation and topics as the improvement of hygiene in hospitals.*
+* Public health is a matter of great concern for politicians and legislators around the world: not only does it take up a relevant slice of a nation’s public budget, but it also deeply affects citizens’ quality of life. The behavioural economics approach of libertarian paternalism largely contributes to the already substantial literature on this matter. In the following canon, we give an overview of the aforementioned contributions by presenting the most important examples of practical applications. These include experiments on nudging people towards healthier lifestyles as well as articles on better schemes for organ donation and topics as the improvement of hygiene in hospitals.*
 
-####INTRODUCTION
+#### INTRODUCTION
 
 How can we make people quit smoking? Which way is the best to increase the number of organ donators? Why are so many people unable to cope with choices concerning their health – and is it possible to improve their decisions? These questions are just a few out of many politicians and health managers permanently face when considering new regulations and policies regarding the system of public health. Doubtlessly, there are plenty of ways to answer them. The paper at hand tries to give an insight how the approach of Behavioural Economics and Libertarian Paternalism can help to deal with these issues.
 
@@ -17,7 +18,7 @@ On the following pages we want to give an overview of how this approach can be a
 
 This canon is divided into four chapters. It commences with a brief overview of the influence of manipulative advertisement and how the state can nudge people towards a healthier lifestyle. In the second chapter we discuss one of the most classic examples of Behavioural Economics and public health – the possibility to increase organ donations by imposing a default option so that every citizen is automatically an organ donator. Following to that we show what impact monitoring of hospital employees on hygiene can have and how patient’s choices at the doctors can be improved. Eventually we emphasise on the positive nudging effect smartphone apps and other devices can have to promote healthier lifestyles and choices.
 
-####NUDGING TOWARDS A HEALTHIER LIFESTYLE
+#### NUDGING TOWARDS A HEALTHIER LIFESTYLE
 
 The traditional persuasion messages are starting to show their limited impact on health decisions and therefore, insights from behavioural economics are becoming more and more relevant in healthcare management (Voyer, 2015).
 
@@ -29,7 +30,7 @@ Unhealthy food consumption can also be reduced by priming (Blumenthal-Barby & Bu
 
 Another possibility is to supply people who have time-inconsistent preferences with commitment devices (Matjasko et al., 2016). Such consumers find themselves giving into temptations, instead of living the healthy lifestyle they desire. A commitment device proposed by Richard Thaler is a deposit contract, which will only give back the deposit if the predetermined goal is reached. Research has found that the completion of more weeks of exercise can be accomplished by nudging people to make commitments for a longer term (Matjasko et al., 2016).
 
-####OPT-IN VS OPT-OUT
+#### OPT-IN VS OPT-OUT
 
 Nowadays, in almost every supermarket chain, cashiers do not offer a plastic bag to customers when they check out. Customers in need of a bag are usually forced to ask for one and/or to pay for it. In such scenarios, customers are less likely to explicitly ask for a shopping bag, as the default option, the one suggested by the cashier’s behaviour, i.e. no plastic bag, is the status quo. Hence, it would require some effort to deviate from the norm entailed in such a stable situation and losing the status quo by buying a plastic bag might not be worth the gain (not having to carry the groceries by hand) (Samson, 2014). This example on daily life experience perfectly summarizes the concept of default options: rules determining the set of actions to be undertaken if the decision-maker fails to establish her/his preferred choice in a certain situation. As already mentioned in the introduction, this section is dedicated to the leading and most publicly recognized application of default options: Johnson and Goldstein’s article on the impact of default choices on organ donation compliance rates.
 
@@ -40,7 +41,7 @@ One of the studies dealing with hand hygiene compliance of the staff in hospital
 
 Another issue where feedback mechanisms are used in healthcare is unattended appointments in hospitals. When patients do not keep up with their appointments, this has serious costs for the hospital, since this causes significant losses in revenues and decrease in the service quality and patient satisfaction. A study conducted by Martin, Bassi and Dunbar-Rees (2012), looking at the effect of certain methods on reducing the number of missed appointments, concludes that the exposure to social norms as the number of appointments that were attended, proved to be the most effective method among others. This was basically done by communicating on posters or on screens the number of patients who kept up with their appointments in the previous periods.  The exposure to right norms functions in a way similar to feedback mechanisms and it indeed reduced the number of missed appointments by 31.7% (Martin et al., 2012).
 
-####GAMIFICATION
+#### GAMIFICATION
 
 With the outstanding use of smartphones, tablets, laptops and all devices that provide internet, it is not hard to imagine that all kind of services would be available in the e-world. One of the most important services that has been influenced by the internet is the health care area. A new term was raised and is now becoming very popular; it is the e-health, which characterizes everything related to health care and computers. The internet has revolutionized the traditional healthcare, opening several opportunities to consumers, firms and governments to benefit from it. Never before consumers were advertised with so many information about health care and medicines. Consumers now have the chance to learn more in an easier and faster way. Firms and health insurances can benefit from it, receiving more feedbacks and acquiring more consumers. In addition, governments have now the possibility to use new approaches in order to stimulate healthier life styles of its citizens.
 
@@ -51,7 +52,7 @@ From the entire possibilities that resulted from gamification, it is possible to
 A much-mentioned study in this field is Smyth and Heron (2010). The authors aim to present and criticize the use of mobile technology to improve health behaviours and psychological and physical symptoms. The study consist of a base of twenty-seven mobile technology interventions to deliver ambulatory treatment on patients with smoking cessation, weight loss, anxiety, diabetes management, eating disorders, alcohol use, healthy eating and physical activity. The article emphasizes that mobile-technology devices have a positive effect on treating health behaviours and that the patients very well accepted them.  
 
 The use of gamification of e-health is indeed one of the biggest promises of the healthcare sector. With the rise of healthcare information and the constant growth of the use of smartphones, the acceptance of gamification tends to be even higher than it is nowadays. Moreover, the youth claims to a fun and dynamic relationship between health and health devices.
-#####REFERENCES
+##### REFERENCES
 
 Armellino, D. et al. (2013). Replicating changes in hand hygiene in a surgical intensive care unit with remote video auditing and feedback. *American Journal of Infection Control*, 41(10), 925-927
 
