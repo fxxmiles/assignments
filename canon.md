@@ -6,7 +6,7 @@
 
 #### ABSTRACT
 
-* Public health is a matter of great concern for politicians and legislators around the world: not only does it take up a relevant slice of a nation’s public budget, but it also deeply affects citizens’ quality of life. The behavioural economics approach of libertarian paternalism largely contributes to the already substantial literature on this matter. In the following canon, we give an overview of the aforementioned contributions by presenting the most important examples of practical applications. These include experiments on nudging people towards healthier lifestyles as well as articles on better schemes for organ donation and topics as the improvement of hygiene in hospitals.*
+*Public health is a matter of great concern for politicians and legislators around the world: not only does it take up a relevant slice of a nation’s public budget, but it also deeply affects citizens’ quality of life. The behavioural economics approach of libertarian paternalism largely contributes to the already substantial literature on this matter. In the following canon, we give an overview of the aforementioned contributions by presenting the most important examples of practical applications. These include experiments on nudging people towards healthier lifestyles as well as articles on better schemes for organ donation and topics as the improvement of hygiene in hospitals.*
 
 #### INTRODUCTION
 
