@@ -1,11 +1,11 @@
-#Francesca Ventimiglia
+# Francesca Ventimiglia
 *************************************************
 
  Hoogtestraat 6,Tilburg 5021PJ(NL) | f.ventimiglia@uvt.nl | +31 61169447
  
 *************************************************  
 
-##Education
+## Education
 
 `2016 - 2017`__Tilburg University__ _(Master in Economics)_
 
@@ -17,7 +17,7 @@
 
 `2010 - 2011` __Hammond High School__ _(Exchange Program, American Field Service)_
 
-##Work experiences
+## Work experiences
 
 `2016`         __WABS Safety Ltd.__ _(Start up)_
 
@@ -25,19 +25,19 @@
 
 `2011 - 2012`  __Private tutoring for High School and Middle School Students__ _(French and English)_
 
-##Languages
+## Languages
 
 * French _(ESABAC, bien)_
 * English _(TOEFL, 111 )_
 * Italian _(mother tongue)_
 
-##IT Skills
+## IT Skills
 
 * Microsoft Office _(ECDL, May 2013)_
 * Latex _(Basic)_
 * Eviews, Stata
 
-##Other Information
+## Other Information
 
 `2013 - 2015` Volounteer at SOS Bambini
 
