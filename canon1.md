@@ -1,4 +1,4 @@
-#Behavioural Economics: Libertarian Paternalism and Public Health
+# Behavioural Economics: Libertarian Paternalism and Public Health
 ![[]{data-label="fig:example"}](libertarian_paternalism_copia.jpg)
 
 
